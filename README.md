@@ -28,7 +28,7 @@ Including an example of how to use your role (for instance, with variables passe
 - name: Give a name here
   hosts: all
   roles:
-    - r1soft.yml
+    - r1soft_role
 
 
 License
